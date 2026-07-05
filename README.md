@@ -1,4 +1,4 @@
-# Coffee_Shop_Dashboard_excel2
+
 # Coffee Shop Sales Dashboard (Microsoft Excel)
 
 Developed an interactive Coffee Shop Sales Dashboard in Microsoft Excel to analyze and visualize sales performance across different branches and products. The dashboard transforms raw sales data into meaningful business insights through dynamic charts, KPIs, and interactive filters. It enables stakeholders to monitor performance, identify sales trends, evaluate top-performing products, and make data-driven business decisions.
@@ -44,5 +44,7 @@ Developed an interactive Coffee Shop Sales Dashboard in Microsoft Excel to analy
 * Business Intelligence
 * KPI Reporting
 * Sales Performance Analysis
+
+< a href="https://github.com/karanit1305-afk/Coffee_Shop_Dashboard_excel2/blob/main/Coffee_Shop_Dashboard.xlsx" > data use in dashboard </a>
 * Excel Automation
 * Reporting & Business Insights
